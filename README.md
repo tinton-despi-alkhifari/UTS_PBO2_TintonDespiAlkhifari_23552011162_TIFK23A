@@ -6,8 +6,8 @@
 
 ## Profil
 <ul>
-  <li>Nama: Sahrul Julistiawan</li>
-  <li>NIM: 23552011145</li>
+  <li>Nama: Tinton Despi Alkhifari</li>
+  <li>NIM: 23552011162</li>
   <li>Studi Kasus: Web Todo List</li>
 </ul>
 
