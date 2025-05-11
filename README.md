@@ -39,6 +39,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/sayajuli/UTS_PBO2_TIFK23A_23552011145">Github</a></li>
-  <li>Youtube: <a href="https://youtu.be/kScjNslMY9I">Youtube</a></li>
+  <li>Github: <a href="https://github.com/tinton-despi-alkhifari/UTS_PBO2_TintonDespiAlkhifari_23552011162_TIFK23A.git">Github</a></li>
+  <li>Youtube: <a href="">Youtube</a></li>
 </ul>
