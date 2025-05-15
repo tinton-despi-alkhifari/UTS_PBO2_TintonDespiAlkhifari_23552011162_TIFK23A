@@ -40,5 +40,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/tinton-despi-alkhifari/UTS_PBO2_TintonDespiAlkhifari_23552011162_TIFK23A.git">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/EwPusMpSe1Y">Youtube</a></li>
 </ul>
